@@ -9,8 +9,7 @@ The API to use is the one in ‘The Movie Db’:
 
 • https://www.themoviedb.org/documentation/api
 • https://developers.themoviedb.org/4/getting-started
-• https://developers.themoviedb.org/3/getting-started/introduction
-     Android assignment 2022
+• https://developers.themoviedb.org/3/getting-started/introduction 
 
 Requirements
 
